@@ -11,7 +11,7 @@
     <h1>123456</h1>
     <chartPie :series-data="dataList" :extra-option="extraOption" />
   </div>
-  <!-- <HelloWorld msg="Vite + Vue" /> -->
+  <HelloWorld msg="Vite + Vue" />
 </template>
 <script setup>
 import HelloWorld from "./components/HelloWorld.vue";
