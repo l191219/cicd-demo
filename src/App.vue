@@ -6,10 +6,6 @@
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
-    <h1>厉不厉害你航哥！</h1>
-    <h1>你航哥太帅了</h1>
-    <h1>123456</h1>
-    <h1>2025/1/2</h1>
     <chartPie :series-data="dataList" :extra-option="extraOption" />
   </div>
   <HelloWorld msg="Vite + Vue" />
